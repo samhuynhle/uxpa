@@ -164,3 +164,9 @@ h3 {
 	width:100%;
 	background-color:#488FDF;
 }
+
+.circletag {
+	width: 50%;
+	height: 50%;
+	border-radius: 50%;
+  }
